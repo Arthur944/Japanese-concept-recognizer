@@ -1,0 +1,313 @@
+floor, ceiling;一
+human legs;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/human%20legs.png}}
+mouth;口
+top hat;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/top%20hat.png}}
+animal legs;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/animal%20legs.png}}
+diced, cut;七
+baseball team, baseball, nine;九
+ten, needle;十
+sun, day, tongue wagging in the mouth;日
+moon, flesh, part of the body;月
+rice field, brains;田
+eye, eyeball;目
+old;古
+sunflower, early;早
+walking stick;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/walking%20stick.png}}
+a drop of;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/drop%20of.png}}
+oneself, nose, nostrils;自
+white, white bird, dove, bird;白
+fat man, round baseball player;丸
+glue, glued to;寸
+acupuncturist;博
+divining rod;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/divining%20rod.png}}
+mist;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mist.png}}
+wind;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/wind%3B%20weather%20vain.png}}
+bound up;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/bound%20up.png}}
+horns;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/horns.png}}
+shells, oyster, clam;貝
+head;頁
+fishhook;乙
+tool;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/tool.png}}
+by ones side;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/by%20ones%20side.png}}
+craft, I beam, artificial;工
+dagger, saber;刀
+seduce;召
+wealth;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/wealth.png}}
+nail, spike, street;丁
+child;子
+woman;女
+breasts;母
+teenager, legs;兄
+little;小
+large dog, St. Bernard dog;大
+cliff;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cliff.png}}
+evening;夕
+stone, stones, rocks;石
+resemblance, spark, candle, fire;肖
+stream, flood;川
+water;水
+spring, water, little;泉
+soil, ground, dirt, land;土
+ivy;圭
+fireplace, hearth, conflagration;火
+computer, logic;里
+flames, cauldron, cooking fire, oven fire;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/fire%20alt.png}}
+hood;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/hood.png}}
+monks;同
+house;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/house.png}}
+tree, wood, pole, wooden pole;木
+flower;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/flower.png}}
+graveyard;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/graveyard.png}}
+portent;兆
+turtle;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/turtle.png}}
+chihuahua;犬
+pack of dogs;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/pack%20of%20dogs.png}}
+cow;牛
+umbrella;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/umbrella.png}}
+meeting;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/meeting.png}}
+king, scepter;王
+jewel, ball;玉
+candlestick;主
+gold, metal;金
+road;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/road.png}}
+Car, cart, wagon, vehicle;車
+walking legs;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/walking%20legs.png}}
+each;各
+crown;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/crown.png}}
+chariot;軍
+whirlwind;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/whirlwind.png}}
+tall;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/tall.png}}
+lidded crock;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/lidded%20crock.png}}
+lap;周
+samurai;士
+aerosol can;吉
+schoolhouse;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/schoolhouse.png}}
+brush;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/brush.png}}
+taskmaster;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/taskmaster.png}}
+saying, speech, words;言
+arrow;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/arrow.png}}
+quiver;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/quiver.png}}
+fiesta;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/fiesta.png}}
+Thanksgiving;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/thanksgiving.png}}
+parade;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/parade.png}}
+march;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/march.png}}
+float;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/float.png}}
+stop, footprint;止
+mending;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mending.png}}
+stretch;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/stretch.png}}
+zoo;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/zoo.png}}
+cloak;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cloak.png}}
+scarf;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/scarf.png}}
+top hat and scarf;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/top%20hat%20and%20scarf.png}}
+garment;衣
+towel;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/towel.png}}
+apron;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/apron.png}}
+belt;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/belt.png}}
+rising cloud;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/rising%20cloud.png}}
+rain, weather;雨
+ice;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/ice.png}}
+heaven, heavens, witch;天
+angel;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/angel.png}}
+vase, standing up;立
+antique;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/antique.png}}
+spoon, sitting on the ground;匕
+siesta;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/siesta.png}}
+reclining;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/reclining.png}}
+double back;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/double%20back.png}}
+yawn, lack;欠
+next, second;次
+muzzle;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/muzzle.png}}
+sound;音
+kazoo;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/kazoo.png}}
+mirror;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mirror.png}}
+deceased, to perish;亡
+compass, direction;方
+devil;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/devil.png}}
+increase;曽
+east, East;東
+porter;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/porter.png}}
+scorpion;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/scorpion.png}}
+insect;虫
+snake;己
+wrap;包
+eel;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/eel.png}}
+tortoise;亀
+sow;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/sow.png}}
+piglets;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/piglet.png}}
+piggy bank;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/piggy%20bank.png}}
+sheep;羊
+wool;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/wool.png}}
+turkey;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/turkey.png}}
+horse;午
+Pegasus;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/pegasus.png}}
+wings, feathers;羽, {{img:https://storage.googleapis.com/annielearn-60998.appspot.com/feathers.png}}
+pent in;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/pent%20in.png}}
+cave;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cave.png}}
+heart;心
+state of mind;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/state%20of%20mind.png}}
+valentine;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/valentine.png}}
+hand;手
+fingers;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/finger.png}}
+two hands;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/two%20hands.png}}
+genie, genius;才
+genie in the bottle;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/genius.png}}
+fist;乃
+outstretched hands;及
+arm;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/arm.png}}
+crotch;又
+missile;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/missile.png}}
+spool;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/spool.png}}
+vulture;爪, {{img:https://storage.googleapis.com/annielearn-60998.appspot.com/vulture.png}}
+fledgling;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/fledgling.png}}
+birdhouse;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/birdhouse.png}}
+elbow;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/elbow.png}}
+wall;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/wall.png}}
+infant;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/infant.png}}
+to go in, to put in, to come in;入
+gully;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/gully.png}}
+outhouse;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/outhouse.png}}
+bone;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/bone.png}}
+sunglasses;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/sunglasses.png}}
+mandala;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mandala.png}}
+lose, to drop;失
+slave;臣
+muscle, power;力
+column, going, line;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/going.png}}
+boulevard;行
+wheat;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/wheat.png}}
+rice, United States;米
+grains of rice;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/grains%20of%20rice.png}}
+bamboo;竹
+person;person, Mr. T, {{img:https://storage.googleapis.com/annielearn-60998.appspot.com/person.png}}
+assembly line;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/assembly%20line.png}}
+plow;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/plow.png}}
+puzzle;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/puzzle.png}}
+shredder;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/shredder.png}}
+banner;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/banner.png}}
+flag;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/flag.png}}
+shakuhachi;尺
+altar;示, {{img:https://storage.googleapis.com/annielearn-60998.appspot.com/altar.png}}
+shoot, sprout;由
+roots;甲
+monkey;申
+saw;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/saw.png}}
+broom;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/broom.png}}
+rake;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/rake.png}}
+sieve;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/sieve.png}}
+mop;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mop.png}}
+comb;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/comb.png}}
+shovel;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/shovel.png}}
+measuring cup;斗
+screwdriver;用
+salad;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/salad.png}}
+caverns;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/caverns.png}}
+haystack;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/haystack.png}}
+straw man;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/strawman.png}}
+quarter;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/quarter.png}}
+building blocks;之
+spear;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/spear.png}}
+dollar sign;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/dollarsign.png}}, {{img:https://storage.googleapis.com/annielearn-60998.appspot.com/dollarsign%20alt.png}}
+snare;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/snare.png}}
+slingshot;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/slingshot.png}}
+old man;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/old%20man.png}}
+puppet;者
+scissors;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/scissors.png}}
+maestro;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/maestro.png}}
+wooden leg;足
+jawbone;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/jawbone.png}}
+pinnacle;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/pinnacle.png}}
+hole;穴
+paper punch;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/miss%20universe%3B%20paper%20punch.png}}
+cocoon;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cocoon.png}}
+abacus;幾
+yarn;系
+stamp;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/stamp.png}}
+chop-seal;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/chop-seal.png}}
+fingerprint;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/fingerprint.png}}
+mailbox;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mailbox.png}}
+receipt;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/receipt.png}}
+staples;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/staples.png}}
+whiskey bottle;酉
+table;豆
+drum;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/drum.png}}
+silver;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/silver.png}}
+halo;良
+eating, food;食
+waitress;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/waitress.png}}
+water lily;平
+sheaf;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/sheaf.png}}
+earthworm;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/earthworm.png}}
+spicy;辛
+red pepper;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/red%20pepper.png}}
+ketchup;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/ketchup.png}}
+cornucopia;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cornucopia.png}}
+rice seedling;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/rice%20seedling.png}}
+acorn;亥
+resin;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/resin.png}}
+celery;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/celery.png}}
+grass skirt;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/grass%20skirt.png}}
+grow up;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/grow.png}}
+bushes;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/bushes.png}}
+cell, grow up;生
+Christmas tree;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/christmas%20tree.png}}
+bonsai;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/bonsai.png}}
+cornstalk;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cornstalk.png}}
+cabbage;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cabbage.png}}
+scarecrow;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/scarecrow.png}}
+silage;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/silage.png}}
+clock;今
+west;西
+old west;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/old%20west.png}}
+gates;門
+jail cell;非
+key;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/key.png}}
+guillotine;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/guilotine.png}}
+locket;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/locket.png}}
+clothesline;干
+potato;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/potato.png}}
+scale;余
+awl;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/awl.png}}
+sickness;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/sickness.png}}
+box;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/box.png}}
+teepee;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/teepee.png}}
+pup tent;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/pop%20tent.png}}
+shape;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/shape.png}}
+plaid;文
+fenceposts;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/fenceposts.png}}
+sparkler;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/sparkler.png}}
+red;赤
+apple;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/apple.png}}
+mosaic;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mosaic.png}}
+wicker basket;甘
+bushel basket;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/bushel%20basket.png}}
+purse;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/purse.png}}
+shelf;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/shelf.png}}
+row;並
+upside down in a row;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/row.png}}
+together, strung together, bushel basket;共
+angles;角
+funnel;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/funnel.png}}
+scrapbook;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/scrapbook.png}}
+calling card;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/calling%20card.png}}
+dog tag;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/dog%20tag.png}}
+city walls;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/city%20walls.png}}
+drag;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/drag.png}}
+clothes hanger;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/clothes%20hanger.png}}
+animal tracks;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/animal%20tracks.png}}
+dice, turn;番
+lock of hair;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/lock%20of%20hair.png}}
+tail feathers;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/tail%20feathers.png}}
+hairpin;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/hairpin.png}}
+hair;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/hair.png}}
+mane;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mane.png}}
+owl;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/owl.png}}
+migrating ducks;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/migrating%20ducks.png}}
+mountain goat;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mountain%20goat.png}}
+condor;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/condor.png}}
+skunk;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/skunk.png}}
+rabbit;免
+horse;馬
+tiger;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/tiger.png}}
+deer;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/deer.png}}
+painting of a deer;鹿
+golden calf;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/gold%20calf.png}}

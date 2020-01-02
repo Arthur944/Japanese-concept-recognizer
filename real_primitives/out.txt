@@ -1,0 +1,183 @@
+ceiling,floor;一
+cut,diced;七
+baseball team,nine,baseball;九
+moon flesh,part of the body,moon;月
+brains,rice field;田
+white,dove,bird;白
+round baseball player,fat man;丸
+glue,glued to;寸
+acupuncturist;博
+a drop;卜
+walking stick;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/walking%20stick.png}}
+needle,ten;十
+sunflower,early;早
+oyster,shells,clam;貝
+head;頁
+artificial,i beam,craft;工
+dagger,saber;刀
+seduce;召
+street,spike,nail;丁
+child;子
+woman;女
+breasts;母
+bernard,st,large;大
+stones,rocks,stone;石
+stream,flood;川
+spring,drops,little,water;泉
+ivy;圭
+fire,candle,resemblance,spark;肖
+flames cauldron cooking,oven fire,fireplace,hearth,conflagration;火
+computer;里
+monks;同
+pole,tree,wood;木
+turtle,portent;兆
+chihuahua,a pack of wild dogs;犬
+ball,jewel;玉
+candlestick;主
+metal,gold;金
+cart,vehicle,car,wagon;車
+roof;⼍
+chariot;軍
+wind;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/wind%3B%20weather%20vain.png}}
+lap;周
+lidded,aerosol,crock,can,lid;吉
+speech,words,saying;言
+arrow;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/arrow.png}}
+one;戌
+parade;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/parade.png}}
+footprint,stop;止
+road;廴
+towel;⼌
+weather,rain,crown;雨
+tall;高
+heavens,witch,thousand,heaven;天
+ground,land,dirt,soil;土
+siesta;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/siesta.png}}
+bound up;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/bound%20up.png}}
+yawn,lack;欠
+vase;立
+fiesta;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/fiesta.png}}
+sound;音
+standing,tonguewagging;竟
+fishhook;乙
+insect;虫
+wrap;包
+bucket of eels,eel;亀
+day,tongue wagging in the mouth,sun;日
+piglet;昜
+turkeys;隹
+turkey;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/turkey.png}}
+wings;羽
+hand;手
+finger;⺘
+fingers;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/finger.png}}
+genius,genie,the;才
+fist;乃
+beg,outstretched,hands;及
+wind    crotch;殳
+crotch;又
+earth;圣
+house;脇
+valley;脹
+birdhouse;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/birdhouse.png}}
+evening;夕
+measuring box;舛
+sun    eye    crotch;曼
+slave;臣
+muscle,power;力
+column going,line,boulevard;行
+br classcalibre ,wheat,rice;米
+horns    two hands;并
+belt;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/belt.png}}
+taskmaster;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/taskmaster.png}}
+compass;方
+reclining;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/reclining.png}}
+altar;示
+sprout;由
+roots;甲
+monkey,speaketh;申
+ax;乍
+cow;牛
+sheep;羊
+broom;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/broom.png}}
+rake;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/rake.png}}
+ladle,measuring,cup;斗
+flowers;竹
+two handsmdash,needles;卉
+haystack;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/haystack.png}}
+building blocks;之
+snare;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/snare.png}}
+the diagonal walking stick for getting around;老
+puppet;者
+human legs,mending,leg,correct,wooden,walking;足
+cowl;咼
+hole;穴
+thread;幺
+how,many,abacus;幾
+yarn;系
+stamp;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/stamp.png}}
+whiskey,bottle;酉
+samurai;士
+table;豆
+silver,halo;良
+eating,food;食
+receipt;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/receipt.png}}
+water lily;平
+of    shovel    fishhook;屯
+pepper,red,spicy;辛
+flag;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/flag.png}}
+acorn,elbow;亥
+salad;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/salad.png}}
+eight,go,come,to,put,umbrella;入
+top hat,cloak,scarf;衣
+celery;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/celery.png}}
+grows;生
+hedge;丰
+bush;耒
+bushes;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/bushes.png}}
+cabbage;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cabbage.png}}
+clock;今
+old;古
+east;東
+the east,west;西
+door,gates;門
+jail,cell;非
+key;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/key.png}}
+sunglasses;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/sunglasses.png}}
+with one of the lenses popped out;韋
+clothesline;干
+dry;于
+much,scale,too;余
+mouth;口
+cave;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cave.png}}
+ice;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/ice.png}}
+dog,st bernard;尞
+teepee;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/teepee.png}}
+plaid;文
+apple;赤
+snake;己
+wicker;其
+eyeball,eye;目
+in,a,down,row,upside;並
+strung,together,basket,bushel;共
+angles;角
+celery    again;冓
+family,name    floor;氐
+utilized,screwdriver;用
+arrowhead;甫
+pinnacle;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/pinnacle.png}}
+person;人
+,scepter,king;王
+dice,turn;番
+hair,mane;長
+claws,vulture;爪
+schoolhouse;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/schoolhouse.png}}
+glass,days,canopy    flower,flower,grow,footprints,weather vane,flying,lie,bundle,bow,evening    fingerprint,fields,turkey house,lying,sitting,caves,drop,a drop of    rice,little    belt    little,friendship,arrows,hood,cliff,half,five,feathers,hook,husband,one umbrella,up,waiter,animal horns,on,twenty,mountain,crowns,animal,grains,meeting    mouth    person,vulture    king    mountain,walking sticks;
+horns;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/horns.png}}
+sow;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/sow.png}}
+claw;豸
+rabbit;免
+horses,horse,team,of;馬
+teenager,legs;兄
+human,tiger;虎
+and comparing gives us the kanji for deer. [11], and by comparing themselves to the deer, and we can only surmise such meanings. But more important than the enigmas of the troglodytic mind is the way in which caves, to take on that animal’s characteristics. But time has locked with a “double-key” (the extra stroke through the element for key) the real secret of this art form from us, a double-key;鹿

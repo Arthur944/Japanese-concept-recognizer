@@ -1,0 +1,360 @@
+eye;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/eye.png}}
+walking stick;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/walking%20stick.png}}
+drop of;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/drop%20of.png}}
+acupuncturist;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/acupuncturist.png}}
+divining rod;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/divining%20rod.png}}
+mist;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mist.png}}
+animal legs;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/animal%20legs.png}}
+human legs;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/human%20legs.png}}
+wind/weather vain;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/wind%3B%20weather%20vain.png}}
+bound up;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/bound%20up.png}}
+bound up small;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/bound%20up%20small.png}}
+horns;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/horns.png}}
+straightened hook;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/straightened%20hook.png}}
+hook;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/hook.png}}
+tool;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/tool.png}}
+by ones side;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/by%20ones%20side.png}}
+saber;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/saber.png}}
+wealth;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/wealth.png}}
+mama;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mama.png}}
+little;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/little.png}}
+cliff;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cliff.png}}
+river alt 1;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/river%20alt%201.png}}
+river alt 2;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/river%20alt%202.png}}
+water;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/water.png}}
+spring;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/spring.png}}
+fire alt;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/fire%20alt.png}}
+hood;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/hood.png}}
+house;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/house.png}}
+pole;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/pole.png}}
+flower;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/flower.png}}
+graveyard;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/graveyard.png}}
+turtle;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/turtle.png}}
+pack of dogs;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/pack%20of%20dogs.png}}
+cow;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cow.png}}
+umbrella;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/umbrella.png}}
+meeting;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/meeting.png}}
+road;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/road.png}}
+walking legs;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/walking%20legs.png}}
+convoy;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/convoy.png}}
+crown;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/crown.png}}
+top hat;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/top%20hat.png}}
+whirlwind;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/whirlwind.png}}
+tall;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/tall.png}}
+lidded crock;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/lidded%20crock.png}}
+schoolhouse;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/schoolhouse.png}}
+brush;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/brush.png}}
+brush alt;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/brush%20alt.png}}
+taskmaster;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/taskmaster.png}}
+arrow;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/arrow.png}}
+quiver;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/quiver.png}}
+fiesta;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/fiesta.png}}
+parade;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/parade.png}}
+thanksgiving;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/thanksgiving.png}}
+march;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/march.png}}
+float;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/float.png}}
+mending;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mending.png}}
+stretch;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/stretch.png}}
+zoo;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/zoo.png}}
+zoo alt;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/zoo%20alt.png}}
+scarf;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/scarf.png}}
+cloak;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cloak.png}}
+top hat and scarf;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/top%20hat%20and%20scarf.png}}
+apron;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/apron.png}}
+belt;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/belt.png}}
+buckle;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/buckle.png}}
+rising cloud;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/rising%20cloud.png}}
+rain;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/rain.png}}
+ice;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/ice.png}}
+ice alternate;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/ice%20alternate.png}}
+witch;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/witch.png}}
+angel;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/angel.png}}
+antique;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/antique.png}}
+siesta;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/siesta.png}}
+reclining;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/reclining.png}}
+double back;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/double%20back.png}}
+muzzle;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/muzzle.png}}
+kazoo;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/kazoo.png}}
+mirror;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mirror.png}}
+devil;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/devil.png}}
+porter;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/porter.png}}
+scorpion;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/scorpion.png}}
+gnats;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/gnats.png}}
+eel;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/eel.png}}
+sow;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/sow.png}}
+piglet;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/piglet.png}}
+piggy bank;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/piggy%20bank.png}}
+sheep;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/sheep.png}}
+wool;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/wool.png}}
+turkey;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/turkey.png}}
+pegasus;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/pegasus.png}}
+feathers;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/feathers.png}}
+pent in;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/pent%20in.png}}
+cave;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cave.png}}
+state of mind;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/state%20of%20mind.png}}
+valentine;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/valentine.png}}
+finger;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/finger.png}}
+two hands;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/two%20hands.png}}
+genius;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/genius.png}}
+arm;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/arm.png}}
+missile;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/missile.png}}
+spool;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/spool.png}}
+vulture;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/vulture.png}}
+fledgling;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/fledgling.png}}
+elbow;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/elbow.png}}
+birdhouse;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/birdhouse.png}}
+wall;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/wall.png}}
+infant;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/infant.png}}
+gully;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/gully.png}}
+outhouse;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/outhouse.png}}
+bone;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/bone.png}}
+sunglasses;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/sunglasses.png}}
+mandala;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mandala.png}}
+chapel;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/chapel.png}}
+going;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/going.png}}
+wheat;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/wheat.png}}
+grains of rice;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/grains%20of%20rice.png}}
+person;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/person.png}}
+assembly line;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/assembly%20line.png}}
+plow;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/plow.png}}
+puzzle;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/puzzle.png}}
+sunglasses with one lens popped out;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/sunglasses%20with%20one%20lens%20popped%20out.png}}
+shredder;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/shredder.png}}
+banner;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/banner.png}}
+rag;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/rag.png}}
+flag;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/flag.png}}
+altar;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/altar.png}}
+saw;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/saw.png}}
+broom;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/broom.png}}
+broom alt;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/broom%20alt.png}}
+broom old;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/broom%20old.png}}
+rake;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/rake.png}}
+mop;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mop.png}}
+sieve;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/sieve.png}}
+comb;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/comb.png}}
+shovel;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/shovel.png}}
+salad;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/salad.png}}
+haystack;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/haystack.png}}
+caverns;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/caverns.png}}
+strawman;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/strawman.png}}
+quarter;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/quarter.png}}
+spear;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/spear.png}}
+dollarsign;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/dollarsign.png}}
+;
+snare;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/snare.png}}
+turkey coop;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/turkey%20coop.png}}
+slingshot;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/slingshot.png}}
+old man;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/old%20man.png}}
+scissors;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/scissors.png}}
+maestro;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/maestro.png}}
+jawbone;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/jawbone.png}}
+pinnacle;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/pinnacle.png}}
+miss universe/paper punch;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/miss%20universe%3B%20paper%20punch.png}}
+cocoon;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cocoon.png}}
+stamp;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/stamp.png}}
+chop-seal;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/chop-seal.png}}
+chop-seal small;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/chop-seal%20small.png}}
+fingerprint;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/fingerprint.png}}
+mailbox;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mailbox.png}}
+receipt;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/receipt.png}}
+staples;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/staples.png}}
+drum;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/drum.png}}
+;
+silver;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/silver.png}}
+;
+waitress;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/waitress.png}}
+sheaf;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/sheaf.png}}
+earthworm;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/earthworm.png}}
+red pepper;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/red%20pepper.png}}
+ketchup;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/ketchup.png}}
+cornucopia;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cornucopia.png}}
+rice seedling;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/rice%20seedling.png}}
+resin;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/resin.png}}
+celery;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/celery.png}}
+grass skirt;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/grass%20skirt.png}}
+grow;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/grow.png}}
+bushes;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/bushes.png}}
+christmas tree;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/christmas%20tree.png}}
+cornstalk;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cornstalk.png}}
+bush alt;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/bush%20alt.png}}
+bonsai;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/bonsai.png}}
+cabbage;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/cabbage.png}}
+scarecrow;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/scarecrow.png}}
+silage;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/silage.png}}
+old west;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/old%20west.png}}
+key;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/key.png}}
+guilotine;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/guilotine.png}}
+locket;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/locket.png}}
+potato;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/potato.png}}
+awl;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/awl.png}}
+sickness;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/sickness.png}}
+box;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/box.png}}
+box small;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/box%20small.png}}
+teepee;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/teepee.png}}
+pop tent;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/pop%20tent.png}}
+shape;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/shape.png}}
+fenceposts;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/fenceposts.png}}
+sparkler;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/sparkler.png}}
+apple;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/apple.png}}
+mosaic;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mosaic.png}}
+bushel basket;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/bushel%20basket.png}}
+purse;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/purse.png}}
+shelf;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/shelf.png}}
+oaken tub;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/oaken%20tub.png}}
+row;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/row.png}}
+funnel;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/funnel.png}}
+scrapbook;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/scrapbook.png}}
+calling card;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/calling%20card.png}}
+dog tag;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/dog%20tag.png}}
+city walls;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/city%20walls.png}}
+drag;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/drag.png}}
+drag alt;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/drag%20alt.png}}
+clothes hanger;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/clothes%20hanger.png}}
+stapler;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/stapler.png}}
+lock of hair;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/lock%20of%20hair.png}}
+animal tracks;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/animal%20tracks.png}}
+tail feathers;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/tail%20feathers.png}}
+hairpin;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/hairpin.png}}
+mane;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mane.png}}
+hair;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/hair.png}}
+owl;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/owl.png}}
+migrating ducks;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/migrating%20ducks.png}}
+mountain goat;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/mountain%20goat.png}}
+talking cricket;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/talking%20cricket.png}}
+condor;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/condor.png}}
+skunk;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/skunk.png}}
+tiger;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/tiger.png}}
+deer;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/deer.png}}
+gold calf;{{img:https://storage.googleapis.com/annielearn-60998.appspot.com/gold%20calf.png}}
+floor, ceiling;一
+diced, cut;七
+baseball team, baseball, nine;九
+ten, needle;十
+mouth;口
+sun, day, tongue wagging in the mouth;日
+moon, flesh, part of the body;月
+rice field, brains;田
+eye, eyeball;目
+old;古
+sunflower, early;早
+oneself, nose, nostrils;自
+white, white bird, dove, bird;白
+fat man, round baseball player;丸
+glue, glued to;寸
+acupuncturist;博
+shells, oyster, clam;貝
+head;頁
+fishhook;乙
+craft, I beam, artificial;工
+dagger, saber;刀
+seduce;召
+nail, spike, street;丁
+child;子
+woman;女
+breasts;母
+teenager, legs;兄
+little;小
+large dog, St. Bernard dog;大
+evening;夕
+stone, stones, rocks;石
+resemblance, spark, candle, fire;肖
+stream, flood;川
+water;水
+spring, water, little;泉
+soil, ground, dirt, land;土
+ivy;圭
+fireplace, hearth, conflagration, flames, cauldron, cooking fire, oven fire;火
+computer, logic;里
+monks;同
+tree, wood, pole, wooden pole;木
+portent, turtle;兆
+chihuahua, a pack of wild dogs;犬
+cow;牛
+king, scepter, ball,;王
+jewel, ball;玉
+candlestick;主
+gold, metal;金
+Car, cart, wagon, vehicle;車
+each;各
+chariot;軍
+tall;高
+lap;周
+samurai;士
+aerosol can, lid, lidded crock;吉
+saying, speech, words;言
+stop, footprint;止
+cloak, scarf, top hat, top hat and scarf, garment;衣
+rain, weather;雨
+heaven, heavens, witch;天
+vase, standing up;立
+sitting on the ground;匕
+yawn, lack;欠
+next, second;次
+sound;音
+deceased, to perish;亡
+compass, direction;方
+increase;曽
+east, East;東
+insect;虫
+snake;己
+wrap;包
+eel;亀
+sheep;羊
+horse, team of horses;午
+wings;羽
+heart, state of mind, valentine;心
+hand;手
+genie, genius, genie in the bottle;才
+fist;乃
+outstretched hands, beg;及
+crotch;又
+vulture, claws;爪
+to go in, to put in, to come in, umbrella, eight;入
+lose;失
+slave;臣
+muscle, power;力
+column, going, line, boulevard;行
+rice, wheat, grains of rice, United States;米
+flowers;竹
+person;人
+shakuhachi;尺
+altar;示
+shoot, sprout;由
+roots;甲
+monkey, speaketh;申
+ladle, measuring cup;斗
+screwdriver, utilized;用
+building blocks;之
+old man;老
+puppet;者
+correct, mending, leg, wooden leg, human legs, animal legs, walking legs;足
+hole;穴
+abacus, how many;幾
+yarn;系
+whiskey bottle;酉
+table;豆
+halo, silver;良
+eating, food;食
+water lily;平
+spicy, red pepper;辛
+acorn, elbow;亥
+life;生
+clock;今
+west, Old West, the East;西
+gates, door;門
+jail cell;非
+clothesline;干
+too much, scale;余
+plaid;文
+apple;赤
+wicker basket;甘
+upside down in a row;並
+together, strung together, bushel basket;共
+angles;角
+tusk;牙
+dice, turn;番
+hair, mane;長
+rabbit;免
+horse;馬
+tiger;虎
+painting of a deer;鹿

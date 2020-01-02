@@ -1,0 +1,99 @@
+一つ;ひとつ;one (thing)
+二つ;ふたつ;two (things)
+円;えん;yen
+金;かね;money
+これ;これ;this, this one
+水曜日;すいようび;Wednesday
+あれ;あれ;that over there
+先;さき;ahead, first
+八日;ようか;eight days, 8th of the month
+そば;そば;side, vicinity
+こっち;こっち;here
+右;みぎ;right
+あげる;あげる;give
+ここ;ここ;here
+とても;とても;very
+七;なな;seven
+手;て;hand
+おなか;おなか;stomach
+空く;すく;be empty
+一日;ついたち;1st of the month
+日曜日;にちようび;Sunday
+七つ;ななつ;seven (things)
+どれ;どれ;what, which
+私;わたし;I
+好き;すき;favorite, liked
+ゲーム;ゲーム;game
+一人;ひとり;one, one person
+友達;ともだち;friend, companion
+帰る;かえる;return, go back
+元気;げんき;healthy, energetic
+天気;てんき;weather
+少ない;すくない;few, little
+晴れる;はれる;be sunny, clear up
+上;うえ;up, above
+ドア;ドア;door
+開く;ひらく;open
+口;くち;mouth
+閉める;しめる;shut, close
+時間;じかん;time, hour
+六日;むいか;six days, 6th of the month
+後ろ;うしろ;back, behind
+十日;とおか;ten days, 10th of the month
+午前;ごぜん;morning, a.m.
+今晩;こんばん;this evening, tonight
+土曜日;どようび;Saturday
+金曜日;きんようび;Friday
+月;つき;moon
+夜;よる;night (from sunset to sunrise)
+食べる;たべる;eat
+何;なに;what, which
+晩;ばん;evening (usually from sunset to bedtime)
+ご飯;ごはん;cooked rice, meal
+三つ;みっつ;three (things)
+昼;ひる;daytime, midday
+見つかる;みつかる;be found, be caught
+それ;それ;that, that one
+男;おとこ;man, male
+今週;こんしゅう;this week
+こう;こう;like this, this kind of
+会う;あう;meet
+月曜日;げつようび;Monday
+昨日;きのう;yesterday
+休む;やすむ;take a day off, take a break
+今日;きょう;today
+木曜日;もくようび;Thursday
+場合;ばあい;situation, case
+つける;つける;switch on
+駅;えき;railway station
+止める;やめる;stop, give up, abolish
+歩く;あるく;walk, go on foot
+近く;ちかく;near, close to
+もっと;もっと;more
+近い;ちかい;near, soon
+近く;ちかく;vicinity, nearby
+全部;ぜんぶ;all, wholly
+国;くに;country
+漢字;かんじ;character, kanji
+赤い;あかい;red
+どちら;どちら;which
+米;こめ;rice (grain)
+まずい;まずい;bad-tasting, bad
+無い;ない;to not be
+作る;つくる;make, create
+使う;つかう;use
+消す;けす;switch off, turn off
+閉まる;しまる;be shut, be closed
+前;まえ;front, before
+店;みせ;shop, store
+部屋;へや;room
+夏;なつ;summer
+暑い;あつい;hot, warm (temperature of the air)
+熱い;あつい;hot (things, touch)
+冬;ふゆ;winter
+入る;はいる;enter
+寒い;さむい;cold (temperature of the air)
+春;はる;spring
+暖かい;あたたかい;warm
+見つける;みつける;find
+テーブル;テーブル;table
