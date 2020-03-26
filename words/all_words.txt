@@ -299,10 +299,9 @@
 易しい;やさしい;easy, simple
 留学生;りゅうがくせい;student studying abroad
 戻る;もどる;return, turn back
-起きる;おきる;get up, get out of bed
+起きる;おきる;occur, get up, get out of bed
 起こる;おこる;happen
 起こす;おこす;wake up
-起きる;おきる;occur
 寝る;ねる;sleep, go to sleep
 多分;たぶん;probably, perhaps
 座る;すわる;sit, sit down
@@ -4300,7 +4299,6 @@
 中;ちゅう;middle, medium size
 身振り;みぶり;gesture, gesticulation
 縮まる;ちぢまる;be shortened, be contracted
-私;わたくし;I, myself
 独占;どくせん;exclusive possession, monopoly
 証拠;しょうこ;proof, evidence
 不要;ふよう;unnecessary, waste

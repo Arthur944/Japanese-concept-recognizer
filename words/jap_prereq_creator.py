@@ -31,14 +31,12 @@ class ConceptMapper:
         for line in lines[1:]:
             id, parent_id, name = line.split(";")
             name = name.strip()
-            character = re.search('from (.*) produce', name)
-            if character and character.group(1) in hiragana:
-                character = character.group(1)
+            character = name
+            if character in hiragana:
                 if hiragana.index(character) < 25:
                     self.kana.append(Concept(id, name, character, muddy=muddy_hiragana[hiragana.index(character)]))
                 self.kana.append(Concept(id, name, character))
-            elif character and character.group(1) in katakana:
-                character = character.group(1)
+            elif character in katakana:
                 if katakana.index(character) < 25:
                     if len(katakana) > katakana.index(character) + 1 and katakana[katakana.index(character) + 1] == character:
                         self.kana.append(Concept(id, name, character, muddy=muddy_katakana[katakana.index(character) + 1]))
@@ -52,22 +50,11 @@ class ConceptMapper:
                 self.long_vowel_id = id
             if name == "Y vowel sound":
                 self.y_vowel_id = id
-        readings = {}
+        self.kanji = {}
         for line in [x.split(";") for x in lines[1:]]:
             if line[1] == kanji_id:
-                match = re.search("from (.*?) produce (.*)", line[2])
-                one, other = match.group(1), match.group(2)
-                if len(one) == 1 and re.search("[A-Za-z0-9]", one) is None:
-                    readings[one] = Concept(line[0], other, one)
-        self.kanji_readings = readings
-        produces = {}
-        for line in lines[1:]:
-            if line[1] == kanji_id:
-                match = re.search("from (.*?) produce (.*)", line[2])
-                one, other = match.group(1), match.group(2)
-                if len(other) == 1 and re.search("[A-Za-z0-9]", other) is None:
-                    produces[other] = Concept(line[0], one, other)
-        self.kanji_productions = produces
+                self.kanji[line[2].strip()] = Concept(line[0], line[2].strip(), line[2].strip())
+        print(self.kanji)
 
     def concepts_to_character(self, character):
         if character == "っ":
@@ -81,26 +68,22 @@ class ConceptMapper:
                 return [concept.id]
             if concept.muddy == character:
                 return [concept.id, self.additional_sounds_id]
-        if character in self.kanji_readings.keys():
-            return [self.kanji_readings[character].id]
+        if character in self.kanji.keys():
+            return [self.kanji[character].id]
         return []
+
+    def reverse_concept(self, concept):
+        if 'read' in concept and 'write' not in concept:
+            return concept.replace("read", "write")
+        if "write" in concept and "read" not in concept:
+            return concept.replace("write", "read")
+        return concept
 
     def word_prereqs(self, word):
         prereqs = []
         for character in word:
             prereqs += self.concepts_to_character(character)
-        return list(set(prereqs))
-
-    def word_production_prereqs(self, word):
-        prod_prereqs = []
-        prereqs = self.word_prereqs(word)
-        for prereq in prereqs:
-            concept = self.concepts[[x['id'] for x in self.concepts].index(prereq)]
-            # reverse concept name
-            name = re.sub("from (.*?) produce (.*)", r"from \2 produce \1", concept['name'])
-            # find id from concept name
-            prod_prereqs.append(self.concepts[[x['name'] for x in self.concepts].index(name)]['id'])
-        return prod_prereqs
+        return [str(x) + ",read" for x in list(set(prereqs))]
 
     def word_to_romanji(self, word):
         return romkan.to_roma(word)
